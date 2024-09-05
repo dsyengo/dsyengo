@@ -29,7 +29,7 @@ I'm eager to work with like-minded individuals on projects related to:
 - **Email**: [deniswilson028@gmail.com](mailto:deniswilson028@gmail.com)
 - **Phone**: +254 115 014 057
 - **GitHub**: [@dsyengo](https://github.com/dsyengo)
-- **LinkedIn**: [Denis Syengo](https://www.linkedin.com/in/denissyengo)
+- **LinkedIn**: [Denis Syengo](https://www.linkedin.com/in/denis-syengo-1a27a8214/)
 
 Feel free to connect with me! I'm always open to new opportunities and collaborations.
 
