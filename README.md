@@ -1,40 +1,21 @@
-# 👋 Hi, I’m Denis Syengo
+<h1 align="center">Hi 👋, I'm Denis Syengo aka Master Chief</h1>
+<h3 align="center">Skilled and forward-thinking Software Engineer and Cybersecurity Specialist with expertise in frontend (React), backend (Node.js), and cross-platform mobile development (Flutter). Proficient in using Python for automation and data-driven solutions, and passionate about building secure, high-impact applications that balance performance, usability, and resilience. Certified in core cybersecurity principles, including network security, access control, risk management, and business continuity. Experienced in secure coding, vulnerability assessment, threat modeling, and system hardening— integrating security across the development lifecycle to build systems resilient to evolving threats. A collaborative team leader committed to mentoring, code quality, and delivery excellence. Enthusiastic about AI and its real-world applications across software, backend, and cybersecurity—leveraging intelligent systems to boost efficiency, automate workflows, and deliver smarter user experiences.</h3>
 
-I'm a backend developer with a passion for Node.js and artificial intelligence. I love building scalable server-side applications and diving deep into AI programs to solve real-world problems.
+- 🔭 I’m currently working on Deriv Third Party Intergration [MrCharlohFx Traders](https://mrcharlohfx.netlify.app/)
 
-## 👀 What I’m Interested In
+- 🌱 I’m currently learning **CEH, Automation, Backend Engineering, Frontend Development, Cybersecurity**
 
-- **Web Development**: Creating dynamic, responsive, and user-friendly web applications.
-- **Artificial Intelligence**: Leveraging AI to build smart solutions that can transform industries.
-- **Open Source**: Contributing to projects that have a positive impact on the community.
+- 👨‍💻 All of my projects are available at [https://denissyengo.netlify.app](https://denissyengo.netlify.app)
 
-## 🌱 Currently Learning
+- 💬 Ask me about **react, javascript, nodejs, automation(n8n, Zapier)**
 
-I'm continuously expanding my skill set to stay updated with the latest in tech. Right now, I'm focused on:
+- 📫 How to reach me **deniswilson028@gmail.com | devs.masterchief@gmail.com**
 
-- **Advanced Node.js**: Enhancing performance, security, and scalability.
-- **Machine Learning**: Implementing and fine-tuning ML models.
+- 📄 Know about my experiences [Visit my portfolio](Visit my portfolio)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 💞️ Looking to Collaborate On
-
-I'm eager to work with like-minded individuals on projects related to:
-
-- **AI and Machine Learning**: Especially in healthcare, agriculture, and education.
-- **Backend Development**: Building robust APIs and microservices.
-- **Open Source Contributions**: Improving and maintaining open-source projects.
-
-## 📫 How to Reach Me
-
-- **Email**: [deniswilson028@gmail.com](mailto:deniswilson028@gmail.com)
-- **Phone**: +254 115 014 057
-- **GitHub**: [@dsyengo](https://github.com/dsyengo)
-- **LinkedIn**: [Denis Syengo](https://www.linkedin.com/in/dsyengo/)
-
-Feel free to connect with me! I'm always open to new opportunities and collaborations.
-
-
-<!---
-dsyengo/dsyengo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
