@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Denis+Syengo;aka+Master+Chief" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Skilled Software Engineer & Cybersecurity Specialist</h3>
+<h3 align="center">🚀 Software Engineer & DevOps Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deniswilson&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -18,22 +18,21 @@
 
 ### 🧠 About Me
 
-I'm a forward-thinking Software Engineer and Cybersecurity Specialist with deep expertise in:
+I'm a skilled and forward-thinking **Software Engineer** with a strong focus on **Frontend**, **Backend**, and **DevOps** practices. I love building high-impact applications and streamlining the development lifecycle.
 
-- **Frontend:** React, Next.js, Tailwind, Bootstrap
-- **Backend:** Node.js, Express, PHP
-- **Mobile:** Flutter (cross-platform)
-- **Automation:** Python, n8n, Zapier
-- **Security:** CEH (in-progress), secure coding, threat modeling, vulnerability assessment, system hardening
+- **Frontend:** React, Next.js, Tailwind, Bootstrap, Flutter (Mobile)
+- **Backend:** Node.js, Express, PHP, Python (Automation)
+- **DevOps & Cloud:** CI/CD Pipelines, Docker, Containerization, Cloud Deployment (Netlify, Heroku), Infrastructure as Code (Learning)
+- **Automation:** n8n, Zapier, Python Scripting
 
-I'm passionate about building **secure, high-impact applications** that balance performance, usability, and resilience. Certified in core cybersecurity principles, I integrate security across the entire development lifecycle. I also love exploring **AI** to automate workflows and deliver smarter user experiences.
+I am passionate about writing clean, efficient code and implementing DevOps principles to ensure reliable, scalable, and fast software delivery.
 
 ---
 
 ### 🔭 Current Focus
 
-- **Building:** [Kipaa Ecommerce](https://github.com/deniswilson/kipaa-ecommerce) – A full-featured ecommerce platform
-- **Learning:** CEH, Automation, Backend Engineering, Advanced Frontend, Cybersecurity
+- **Building:** [Kipaa Ecommerce](https://kipaahandmade.com) – A full-featured, handmade goods ecommerce platform.
+- **Learning:** Advanced DevOps (Docker, Kubernetes), System Design, and Cloud Architecture.
 
 ---
 
@@ -59,11 +58,15 @@ I'm passionate about building **secure, high-impact applications** that balance 
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,python,js,ts,php,mongodb,mysql,tailwind,bootstrap,html,css,sass,figma,git,linux,postman,jest,firebase,heroku" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,python,js,ts,php,mongodb,mysql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,sass,figma,git,postman,jest" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,nginx,linux,bash,netlify,heroku" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,ai,regex" />
+  <i>DevOps & Cloud Tools: Docker, CI/CD, Kubernetes (Learning), Cloud Platforms, Automation.</i>
 </p>
 
 ---
@@ -83,12 +86,13 @@ I'm passionate about building **secure, high-impact applications** that balance 
 
 ### 🏆 Featured Project
 
-#### 🛒 Kipaa Ecommerce (In Progress)
+#### 🛒 Kipaa Handmade Ecommerce
 
-> A modern, full-stack ecommerce platform with secure payments, user authentication, and admin dashboard.
+> A modern, full-stack ecommerce platform for handmade goods, focusing on secure payments and a seamless user experience.
 
-- 🔧 **Stack:** React, Node.js, MongoDB, Stripe API, Tailwind CSS
-- 🚀 **Goal:** Deliver a fast, secure, and scalable online shopping experience.
+- **Live Site:** [https://kipaahandmade.com](https://kipaahandmade.com)
+- **Stack (Example):** React, Node.js, MongoDB, Stripe, Tailwind CSS
+- **DevOps:** Containerized development environment, CI/CD pipeline for automated deployment.
 
 ---
 
@@ -100,7 +104,7 @@ I'm passionate about building **secure, high-impact applications** that balance 
 ---
 
 <p align="center">
-  <i>“Building secure systems, one line of code at a time.”</i>
+  <i>“Building scalable systems, streamlining workflows, one commit at a time.”</i>
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00A8FF&center=true&width=435&lines=Always+learning+%F0%9F%93%9A;Securing+the+future+%F0%9F%94%92;Automating+everything+%E2%9A%99%EF%B8%8F" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00A8FF&center=true&width=435&lines=Always+learning+📚;Shipping+quality+code+🚢;Automating+everything+⚙️" alt="Footer Typing" />
 </p>
