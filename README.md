@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Denis+Syengo;aka+Master+Chief" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Denis+Syengo;aka+Master+Chief" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Software Engineer & DevOps Enthusiast</h3>
@@ -91,7 +91,7 @@ I am passionate about writing clean, efficient code and implementing DevOps prin
 > A modern, full-stack ecommerce platform for handmade goods, focusing on secure payments and a seamless user experience.
 
 - **Live Site:** [https://kipaahandmade.com](https://kipaahandmade.com)
-- **Stack (Example):** React, Node.js, MongoDB, Stripe, Tailwind CSS
+- **Stack:** React, Node.js, MongoDB, Stripe, Tailwind CSS
 - **DevOps:** Containerized development environment, CI/CD pipeline for automated deployment.
 
 ---
@@ -104,7 +104,5 @@ I am passionate about writing clean, efficient code and implementing DevOps prin
 ---
 
 <p align="center">
-  <i>“Building scalable systems, streamlining workflows, one commit at a time.”</i>
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00A8FF&center=true&width=435&lines=Always+learning+📚;Shipping+quality+code+🚢;Automating+everything+⚙️" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=00A8FF&center=true&width=435&lines=Always+learning+📚;Shipping+quality+code+🚢;Automating+everything+⚙️;Building+scalable+systems+🏗️" alt="Footer Typing" />
 </p>
