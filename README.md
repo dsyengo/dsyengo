@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Denis+Syengo;aka+Master+Chief" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Software Engineer & DevOps Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer & DevOps Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deniswilson&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
