@@ -21,7 +21,7 @@
 I'm a skilled and forward-thinking **Software Engineer** with a strong focus on **Frontend**, **Backend**, and **DevOps** practices. I love building high-impact applications and streamlining the development lifecycle.
 
 - **Frontend:** React, Next.js, Tailwind, Bootstrap, Flutter (Mobile)
-- **Backend:** Node.js, Express, PHP, GOlang Python (Automation)
+- **Backend:** Node.js, Express, PHP, GOlang, Python (Automation)
 - **DevOps & Cloud:** CI/CD Pipelines, Docker, Containerization, Cloud Deployment (Netlify, Heroku), Infrastructure as Code (Learning)
 - **Automation:** n8n, Zapier, Python Scripting
 
