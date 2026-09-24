@@ -9,7 +9,7 @@
   <a href="https://denissyengo.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00A8FF?style=flat&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/deniswilson?tab=repositories">
+  <a href="https://github.com/dsyengo?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-Explore-181717?style=flat&logo=github&logoColor=white" alt="Projects" />
   </a>
 </p>
